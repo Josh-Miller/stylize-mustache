@@ -1,0 +1,24 @@
+{
+  "name": "stylize-mustache",
+  "version": "0.0.0",
+  "description": "Compiler for Stylize in Mustache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stylize-plugin",
+    "stylize",
+    "mustache"
+  ],
+  "author": {
+    "name": "Josh Miller",
+    "email": "josh@josh-miller.me",
+    "url": "http://josh-miller.me/"
+  },
+  "repository": "Josh-Miller/stylize-mustache",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "mustache": "^2.1.3"
+  }
+}
